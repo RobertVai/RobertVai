@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50">RobertVai</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50">Robert Vaitechovskij</span></h1>
 <h3 align="center">💻 Frontend Developer | React & Node.js Enthusiast 🚀</h3>
 
 ---
@@ -33,12 +33,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertVai&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertVai&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ro
