@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+RobertVai;Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Building+fast+modern+apps" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
 </p>
 
 <h3 align="center">💻 Frontend Developer | React & Node.js Enthusiast 🚀</h3>
