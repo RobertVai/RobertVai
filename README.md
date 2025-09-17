@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Robert+Vaitechovskij;Building+modern+apps" alt="Typing SVG" />
 </p>
+
 
 <h3 align="center">💻 Frontend Developer | React & Node.js Enthusiast 🚀</h3>
 
