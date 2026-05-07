@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
+ <img width="1983" height="793" alt="rv" src="https://github.com/user-attachments/assets/94cd96d0-32c6-4c10-9a95-e59bba7be265" />
 </p>
+
 
 
 
